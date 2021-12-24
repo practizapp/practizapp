@@ -6,5 +6,5 @@ Welcome to my profile, and don't forget to learn with Practiz.
 - Instagram: https://bit.ly/practiz-instagram
 - Twitter: https://bit.ly/practiz-twitter
 - YouTube: https://bit.ly/practiz-youtube
-- LinkedIn: https://bit.ly/practiz-linkedin
 - GitHub: https://bit.ly/practiz-github
+- LinkedIn: https://bit.ly/practiz-linkedin
